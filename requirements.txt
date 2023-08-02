@@ -1,0 +1,8 @@
+openai==0.27.8
+asyncio==3.4.3
+EdgeGPT==0.12.1
+browser-cookie3==0.19.1
+elevenlabs==0.2.21
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+vosk==0.3.45
