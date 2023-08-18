@@ -45,7 +45,7 @@ def getCookies(url):
 
 def gpt_prompt(user_prompt):
     response = openai.ChatCompletion.create(
-    model="gpt-3.5-turbo-16k-0613",
+    model = gpt_model,
     messages=[
         {
         "role": "system",
